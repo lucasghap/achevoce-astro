@@ -479,8 +479,16 @@ export const ctaFinal = {
   note: 'Leva menos de 2 minutos. Sem custo para começar.'
 };
 
+export const ghap = {
+  eyebrow: 'Um produto do ecossistema',
+  tagline: 'Tecnologia que conecta e transforma a saúde.',
+  cta: 'Conheça a GHAP',
+  href: 'https://ghap.com.br'
+};
+
 export const footer = {
   tagline: 'A rede que devolve à saúde o recurso que ia parar no descarte.',
+  legal: 'GHAP SAUDE DIGITAL LTDA · CNPJ 61.899.546/0001-10',
   cols: [
     {
       title: 'Plataforma',
