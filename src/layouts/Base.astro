@@ -4,6 +4,7 @@ import '../styles/global.css';
 import { SITE } from '../lib/site';
 import Nav from '../components/Nav.astro';
 import Footer from '../components/Footer.astro';
+import WhatsApp from '../components/WhatsApp.astro';
 
 interface Props {
   title?: string;
@@ -72,6 +73,7 @@ const jsonLd = {
       <slot />
     </main>
     <Footer />
+    <WhatsApp />
 
     <script is:inline>
       (() => {

@@ -486,6 +486,13 @@ export const ghap = {
   href: 'https://ghap.com.br'
 };
 
+export const whatsapp = {
+  phone: '553197543952',
+  label: 'WhatsApp',
+  aria: 'Fale no WhatsApp',
+  message: 'Olá, vim pelo site do Ache Você e gostaria de mais informações.'
+};
+
 export const footer = {
   tagline: 'A rede que devolve à saúde o recurso que ia parar no descarte.',
   legal: 'GHAP SAUDE DIGITAL LTDA · CNPJ 61.899.546/0001-10',
