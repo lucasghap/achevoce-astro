@@ -488,7 +488,6 @@ export const ghap = {
 
 export const whatsapp = {
   phone: '553197543952',
-  label: 'WhatsApp',
   aria: 'Fale no WhatsApp',
   message: 'Olá, vim pelo site do Ache Você e gostaria de mais informações.'
 };
