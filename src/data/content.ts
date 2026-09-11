@@ -9,7 +9,8 @@ export const nav = {
     { label: 'O problema', href: '#problema' },
     { label: 'Plataforma', href: '#plataforma' },
     { label: 'Para quem é', href: '#publico' },
-    { label: 'Segurança', href: '#seguranca' }
+    { label: 'Segurança', href: '#seguranca' },
+    { label: 'Contato', href: '#contato' }
   ],
   cta: 'Fazer pré-cadastro'
 };
@@ -463,6 +464,21 @@ export const seguranca = {
     'Não faz a validação documental do item nem a formalização da transferência: isso segue as políticas internas de cada parte e a legislação vigente.',
     'Não assume garantia sobre o material transferido.'
   ]
+};
+
+export const contato = {
+  eyebrow: 'Contato',
+  eyebrowIcon: 'message-01',
+  title: 'Entre em contato',
+  lead: 'Ficou com alguma dúvida? Fale com a nossa equipe.',
+  email: {
+    label: 'E-mail',
+    value: 'contato@achevoce.com.br',
+    href: 'mailto:contato@achevoce.com.br'
+  },
+  whatsapp: {
+    label: 'WhatsApp'
+  }
 };
 
 export const ctaFinal = {
